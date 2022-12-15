@@ -1,0 +1,39 @@
+@import url('http://fonts.cdnfonts.com/css/maison-neue');
+//https://www.cdnfonts.com/maison-neue.font
+html,
+body, * {
+  padding: 0;
+  margin: 0;
+  font-family: 'Maison Neue 500', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input,
+label,
+select,
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+li,
+p,
+span,
+table,
+tr td,
+th,a, button{
+  font-family: 'Maison Neue 500', sans-serif;
+}
